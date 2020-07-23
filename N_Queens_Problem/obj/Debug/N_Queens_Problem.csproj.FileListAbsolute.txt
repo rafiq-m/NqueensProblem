@@ -1,0 +1,10 @@
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.exe.config
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.exe
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.pdb
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.csprojAssemblyReference.cache
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.Form1.resources
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.exe
+C:\Users\Rafiq\Desktop\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.pdb
